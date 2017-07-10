@@ -3,8 +3,7 @@
     "description": "simple print with breakline according to running envinroment",
     "authors": [
         {
-            "name": "Vitor Ota",
-            "email": "ota.vitor@gmail.com"
+            "name": "Vitor Ota"
         }
     ],
     "require": {},
